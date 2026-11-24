@@ -29,9 +29,9 @@ Serviço de processamento em lote do DataPrep (Worker Service com HSM PKCS#11/KM
 | Item | Valor |
 | --- | --- |
 | Nome técnico | `ecoscard-dataprep-batch-worker` (antes `EcosDataPrepNetCore`) |
-| Versão atual | [20.26.11.24](../../releases/tag/ecoscard-dataprep-batch-worker-20.26.11.24) — 24/11/2026 |
-| Download | [`ecoscard-dataprep-batch-worker-20.26.11.24-win-x64.zip`](../../releases/download/ecoscard-dataprep-batch-worker-20.26.11.24/ecoscard-dataprep-batch-worker-20.26.11.24-win-x64.zip) |
-| SHA-256 | `21965c011198ace90771fdeefe6c05cab549c65646ea8c14f6e4841204de4190` |
+| Versão atual | [20.26.11.24-r2](../../releases/tag/ecoscard-dataprep-batch-worker-20.26.11.24-r2) — 24/11/2026 |
+| Download | [`ecoscard-dataprep-batch-worker-20.26.11.24-r2-win-x64.zip`](../../releases/download/ecoscard-dataprep-batch-worker-20.26.11.24-r2/ecoscard-dataprep-batch-worker-20.26.11.24-r2-win-x64.zip) |
+| SHA-256 | `9b3100cadc99ff3e6f4186a55f84cc72b32bb3a893d53b4335c2a697fe235e47` |
 | Plataforma | Windows x64 (self-contained, .NET 10, não exige .NET instalado); Docker `suporte472/ecoscard-dataprep-batch-worker` |
 | Execução | extrair em `C:\EcosDataPrepNetCore\bin`; serviço Windows com `windows-service.ps1` (no pacote); credenciais por variável de ambiente |
 <!-- END ecoscard-dataprep-batch-worker -->
