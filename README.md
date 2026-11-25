@@ -96,6 +96,39 @@ Gateway TCP para comandos A1 (validação de criptograma EMV) com PKCS#11 direto
 | Execução | serviço Windows com `instalar_servico.bat`; configuração em `appsettings.json` (modelo incluso) |
 <!-- END ecoscard-hsm-gateway-worker -->
 
+## Treinamento
+
+<!-- BEGIN treinamento -->
+Manuais e vídeos dos módulos do Ecos Cloud vHSM Dashboard. Os vídeos são legendados, sem narração; os exemplos usam dados fictícios. Pratique em ambiente de homologação.
+
+### Key Lifecycle KMIP
+
+Chaves simétricas e assimétricas, cerimônia de chaves, localização e gestão de chaves no vHSM.
+
+- [Manual de referência (PDF, 70 páginas)](../../releases/download/ecoscard-rcl-keylifecycle-kmip-treinamento-20.26.11.25/ecoscard-rcl-keylifecycle-kmip-manual-20.26.11.25.pdf)
+- [Vídeo de treinamento (MP4, 13 min 40 s)](../../releases/download/ecoscard-rcl-keylifecycle-kmip-treinamento-20.26.11.25/ecoscard-rcl-keylifecycle-kmip-treinamento-20.26.11.25.mp4)
+- [Legendas (SRT)](../../releases/download/ecoscard-rcl-keylifecycle-kmip-treinamento-20.26.11.25/ecoscard-rcl-keylifecycle-kmip-treinamento-20.26.11.25.srt)
+- [Release 20.26.11.25 com os SHA-256](../../releases/tag/ecoscard-rcl-keylifecycle-kmip-treinamento-20.26.11.25)
+
+### Ecos Company
+
+Usuários, provedores de identidade, autenticação, políticas e Syslog.
+
+- [Manual de referência (PDF, 25 páginas)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25/ecoscard-rcl-company-manual-20.26.11.25.pdf)
+- [Vídeo de treinamento (MP4, 14 min 23 s)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25/ecoscard-rcl-company-treinamento-20.26.11.25.mp4)
+- [Legendas (SRT)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25/ecoscard-rcl-company-treinamento-20.26.11.25.srt)
+- [Release 20.26.11.25 com os SHA-256](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25)
+
+### DataPrep
+
+Cadastros, templates, certificados EMV e projetos de preparação de dados.
+
+- [Manual de referência (PDF, 239 páginas)](../../releases/download/ecoscard-rcl-dataprep-treinamento-20.26.11.25/ecoscard-rcl-dataprep-manual-20.26.11.25.pdf)
+- [Vídeo de treinamento (MP4, 35 min 30 s)](../../releases/download/ecoscard-rcl-dataprep-treinamento-20.26.11.25/ecoscard-rcl-dataprep-treinamento-20.26.11.25.mp4)
+- [Legendas (SRT)](../../releases/download/ecoscard-rcl-dataprep-treinamento-20.26.11.25/ecoscard-rcl-dataprep-treinamento-20.26.11.25.srt)
+- [Release 20.26.11.25 com os SHA-256](../../releases/tag/ecoscard-rcl-dataprep-treinamento-20.26.11.25)
+<!-- END treinamento -->
+
 ## Como instalar
 
 1. Abra a versão atual da aplicação na tabela acima ou em [Releases](../../releases).
