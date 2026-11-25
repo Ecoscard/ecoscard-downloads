@@ -114,10 +114,10 @@ Chaves simétricas e assimétricas, cerimônia de chaves, localização e gestã
 
 Usuários, provedores de identidade, autenticação, políticas e Syslog.
 
-- [Manual de referência (PDF, 25 páginas)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25-r2/ecoscard-rcl-company-manual-20.26.11.25-r2.pdf)
+- [Manual de referência (PDF, 57 páginas)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25-r4/ecoscard-rcl-company-manual-20.26.11.25-r4.pdf)
 - [Vídeo de treinamento (MP4, 14 min 16 s)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25-r3/ecoscard-rcl-company-treinamento-20.26.11.25-r3.mp4)
 - [Legendas (SRT)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25-r3/ecoscard-rcl-company-treinamento-20.26.11.25-r3.srt)
-- [Release 20.26.11.25-r2 (manual) com o SHA-256](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25-r2) e [release 20.26.11.25-r3 (vídeo e legendas)](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25-r3)
+- [Release 20.26.11.25-r4 (manual) com o SHA-256](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25-r4) e [release 20.26.11.25-r3 (vídeo e legendas)](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25-r3)
 
 ### DataPrep
 
