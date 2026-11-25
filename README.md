@@ -114,10 +114,12 @@ Chaves simétricas e assimétricas, cerimônia de chaves, localização e gestã
 
 Usuários, provedores de identidade, autenticação, políticas e Syslog.
 
-- [Manual de referência (PDF, 25 páginas)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25/ecoscard-rcl-company-manual-20.26.11.25.pdf)
+- [Manual de referência (PDF, 25 páginas)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25-r2/ecoscard-rcl-company-manual-20.26.11.25-r2.pdf)
 - [Vídeo de treinamento (MP4, 14 min 23 s)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25/ecoscard-rcl-company-treinamento-20.26.11.25.mp4)
 - [Legendas (SRT)](../../releases/download/ecoscard-rcl-company-treinamento-20.26.11.25/ecoscard-rcl-company-treinamento-20.26.11.25.srt)
-- [Release 20.26.11.25 com os SHA-256](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25)
+- [Release 20.26.11.25-r2 (manual) com o SHA-256](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25-r2) e [release 20.26.11.25 (vídeo e legendas)](../../releases/tag/ecoscard-rcl-company-treinamento-20.26.11.25)
+
+O vídeo ainda mostra a tela anterior do cadastro de usuário (Set Password) e do Identity Provider (EmailClaim e Scopes). Hoje a senha inicial é obrigatória no cadastro, e EmailClaim e Scopes não aparecem mais: são gravados com `email` e `openid profile email`. Siga o manual.
 
 ### DataPrep
 
