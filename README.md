@@ -127,6 +127,15 @@ Cadastros, templates, certificados EMV e projetos de preparação de dados.
 - [Vídeo de treinamento (MP4, 35 min 30 s)](../../releases/download/ecoscard-rcl-dataprep-treinamento-20.26.11.25/ecoscard-rcl-dataprep-treinamento-20.26.11.25.mp4)
 - [Legendas (SRT)](../../releases/download/ecoscard-rcl-dataprep-treinamento-20.26.11.25/ecoscard-rcl-dataprep-treinamento-20.26.11.25.srt)
 - [Release 20.26.11.25 com os SHA-256](../../releases/tag/ecoscard-rcl-dataprep-treinamento-20.26.11.25)
+
+### Audit
+
+Consulta da trilha de auditoria, filtros por usuário e período, detalhes dos eventos e exportação do relatório.
+
+- [Manual de referência (PDF, 16 páginas)](../../releases/download/ecoscard-rcl-audit-treinamento-20.26.11.25/ecoscard-rcl-audit-manual-20.26.11.25.pdf)
+- [Vídeo de treinamento (MP4, 4 min 56 s)](../../releases/download/ecoscard-rcl-audit-treinamento-20.26.11.25/ecoscard-rcl-audit-treinamento-20.26.11.25.mp4)
+- [Legendas (SRT)](../../releases/download/ecoscard-rcl-audit-treinamento-20.26.11.25/ecoscard-rcl-audit-treinamento-20.26.11.25.srt)
+- [Release 20.26.11.25 com os SHA-256](../../releases/tag/ecoscard-rcl-audit-treinamento-20.26.11.25)
 <!-- END treinamento -->
 
 ## Como instalar
